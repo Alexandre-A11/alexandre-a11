@@ -1,7 +1,7 @@
 ### Hi there ✌
 #### My name is Weverton Alexandre, but you can call me Alexandre. 
 
-😁 I'm graduanted in Information Systems and a forever student of programming.
+I'm graduanted in Information Systems and a forever student of programming. 😁
 <!--
 **Alexandre-A11/alexandre-a11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
