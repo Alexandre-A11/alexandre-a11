@@ -54,3 +54,7 @@ about_me = {
 </div>
 ```
 </details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-a11&layout=compact&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-a11&hide=stars,prs,issues,contribs&show_icons=true&theme=github_dark)
