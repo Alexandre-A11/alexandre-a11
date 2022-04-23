@@ -63,6 +63,8 @@ while alive:
 
 ### - 🤙 Contact me
 
-<div>
-  <a src="https://www.linkedin.com/in/alexandrea11/" target="_blank"><img src="https://img.icons8.com/cute-clipart/452/linkedin.png" width="50" /></a>
-</div>
+<a src="https://www.linkedin.com/in/alexandrea11/" target="_blank">
+	<div>
+		<img src="https://img.icons8.com/cute-clipart/452/linkedin.png" width="50" />
+	</div>
+</a>
