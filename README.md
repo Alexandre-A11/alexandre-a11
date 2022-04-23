@@ -16,9 +16,12 @@ about_me = {
 }
 ```
 
+<details>
+	<summary>Tell me more 😮</summary>
+
 ### - 🌱 Studying plan...
 
-<div>
+<div style="text-align:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" />
   <img src="https://img.icons8.com/color/2x/nodejs.png" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" />
@@ -27,7 +30,7 @@ about_me = {
 
 ### - 💻 Tech Stack
 
-<div>
+<div style="text-align:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -41,12 +44,13 @@ about_me = {
   <img src="https://img.icons8.com/nolan/2x/markdown.png" width="50" />
   <img src="https://img.icons8.com/color/2x/linux.png" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" />
-<div>
+</div>
 <br>
 
 ## - 🤙 Contact me
 
-<div>
+<div style="text-align:center;">
   <a href="https://www.linkedin.com/in/alexandrea11/" target="_blank"><img src="https://img.icons8.com/cute-clipart/452/linkedin.png" width="50" /></a>
 </div>
 ```
+</details>
