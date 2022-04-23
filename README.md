@@ -3,40 +3,24 @@
 ### I graduated in Information Systems and am a forever student of programming. 😸
 
 ```python
-import os
-from routine import *
-
 CURRENT_YEAR = 2022
 BIRTH_YEAR = os.getenv("birth_year")
 
-def who_im_i():
-    name = "Alexandre"
-    age = CURRENT_YEAR - BIRTH_YEAR
-    alive = True
-    languages = ["Portuguese", "English"]
-    hobbies = ["Games", "Movies", "Programming"]
-
-who_im_i()
-
-# Routine
-while alive:
-	wake_up()
-	exercise()
-	coffee()
-	programming()
-	eat()
-	programming()
-	coffee()
-	programming()
-	sleep()
-```
+me_dict = {
+    "name" : "Alexandre",
+    "full_name" "Weverton Alexandre Almeida",
+    "age" : CURRENT_YEAR - BIRTH_YEAR,
+    "alive" : True,
+    "languages" : ["Portuguese", "English"],
+    "hobbies" : ["Games", "Movies", "Programming"],
+}
 
 ### - 🌱 Studying plan...
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" />
   <img src="https://img.icons8.com/color/2x/nodejs.png" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" />
 </div>
 <br>
 
@@ -64,3 +48,4 @@ while alive:
 <div>
   <a href="https://www.linkedin.com/in/alexandrea11/" target="_blank"><img src="https://img.icons8.com/cute-clipart/452/linkedin.png" width="50" /></a>
 </div>
+```
