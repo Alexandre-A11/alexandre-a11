@@ -14,6 +14,7 @@ me_dict = {
     "languages" : ["Portuguese", "English"],
     "hobbies" : ["Games", "Movies", "Programming"],
 }
+```
 
 ### - 🌱 Studying plan...
 
