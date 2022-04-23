@@ -6,7 +6,7 @@
 CURRENT_YEAR = 2022
 BIRTH_YEAR = os.getenv("birth_year")
 
-me_dict = {
+about_me = {
     "name" : "Alexandre",
     "full_name" "Weverton Alexandre Almeida",
     "age" : CURRENT_YEAR - BIRTH_YEAR,
