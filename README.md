@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=28&duration=4000&multiline=true&width=480&height=120&lines=Hi+There!+%E2%9C%8C;Welcome+to+my+GitHub!+%F0%9F%98%B8;I'm+Alexandre%2C+nice+to+meet+you.)](https://git.io/typing-svg)
 
-### My name is Weverton Alexandre, but you can call me Alexandre.
-
-I graduated in Information Systems and am a forever student of programming. 😸
+####I graduated in Information Systems and am a forever student of programming. 😸
 
 ```python
 import os
@@ -33,7 +31,7 @@ while alive:
 	sleep()
 ```
 
-### - 🌱 Studying plan...
+## - 🌱 Studying plan...
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" />
@@ -42,7 +40,7 @@ while alive:
 </div>
 <br>
 
-### - 💻 Tech Stack
+## - 💻 Tech Stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
@@ -61,7 +59,7 @@ while alive:
 <div>
 <br>
 
-### - 🤙 Contact me
+## - 🤙 Contact me
 
 <div>
   <a href="https://www.linkedin.com/in/alexandrea11/" target="_blank"><img src="https://img.icons8.com/cute-clipart/452/linkedin.png" width="50" /></a>
