@@ -34,19 +34,19 @@ about_me = {
 ### - 💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" />
-  <img src="https://img.icons8.com/nolan/2x/flask.png" width="50" />
-  <img src="https://img.icons8.com/nolan/2x/markdown.png" width="50" />
-  <img src="https://img.icons8.com/color/2x/linux.png" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+  <img src="https://img.icons8.com/nolan/2x/flask.png"/>
+  <img src="https://img.icons8.com/nolan/2x/markdown.png"/>
+  <img src="https://img.icons8.com/color/2x/linux.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
 </div>
 <br>
 
@@ -60,5 +60,6 @@ about_me = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-a11&layout=compact&theme=github_dark"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandre-a11&hide=stars,prs,issues,contribs&show_icons=true&theme=github_dark">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=alexandre-a11&hide=stars,prs,issues,contribs&show_icons=true&theme=github_dark"><br> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandre-A11&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&dates=58A5FE">
 </div>
