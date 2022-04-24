@@ -1,5 +1,4 @@
 <div align="center">
-	<img src="style.svg" width="800" height="400" alt="Click to see the source">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=28&duration=4000&multiline=true&width=480&height=120&lines=Hi+There!+%E2%9C%8C;Welcome+to+my+GitHub!+%F0%9F%98%B8;I'm+Alexandre%2C+nice+to+meet+you.)](https://git.io/typing-svg)
 
@@ -21,7 +20,8 @@ about_me = {
 }
 ```
 
-<details>
+<details align="center">
+	<br>
 	<summary>Tell me more 😮</summary>
   <div align="center">
 
