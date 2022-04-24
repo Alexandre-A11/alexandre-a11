@@ -1,7 +1,8 @@
 <div align="center">
-	
+	<img src="style.svg" width="800" height="400" alt="Click to see the source">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=28&duration=4000&multiline=true&width=480&height=120&lines=Hi+There!+%E2%9C%8C;Welcome+to+my+GitHub!+%F0%9F%98%B8;I'm+Alexandre%2C+nice+to+meet+you.)](https://git.io/typing-svg)
-	
+
 ### I graduated in Information Systems and am a forever student of programming. 😸
 
 </div>
@@ -19,43 +20,20 @@ about_me = {
     "hobbies" : ["Games", "Movies", "Programming"],
 }
 ```
+
 <details>
 	<summary>Tell me more 😮</summary>
+  <div align="center">
 
-### - 🌱 Studying plan...
+|                                                                                                                                          - 🌱 Studying plan...                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       - 💻 Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30" />&nbsp;<img src="https://img.icons8.com/color/2x/nodejs.png" width="30" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="30"/>&nbsp;<img src="https://img.icons8.com/nolan/2x/flask.png" width="30"/>&nbsp;<img src="https://img.icons8.com/nolan/2x/markdown.png" width="30"/>&nbsp;<img src="https://img.icons8.com/color/2x/linux.png" width="30"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="30"/> |
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" />
-  <img src="https://img.icons8.com/color/2x/nodejs.png" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" />
-</div>
-<br>
+|                                                                       - 🤙 Contact me                                                                       |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://www.linkedin.com/in/alexandrea11/" target="_blank"><img src="https://img.icons8.com/cute-clipart/452/linkedin.png" width="30" /></a>&nbsp; |
 
-### - 💻 Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-  <img src="https://img.icons8.com/nolan/2x/flask.png"/>
-  <img src="https://img.icons8.com/nolan/2x/markdown.png"/>
-  <img src="https://img.icons8.com/color/2x/linux.png"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
-</div>
-<br>
-
-## - 🤙 Contact me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexandrea11/" target="_blank"><img src="https://img.icons8.com/cute-clipart/452/linkedin.png" width="50" /></a>
-</div>
-```
+  </div>
 </details>
 
 <div align="center">
