@@ -14,9 +14,8 @@ about_me = {
     "name" : "Alexandre",
     "full_name" "Weverton Alexandre Almeida",
     "age" : CURRENT_YEAR - BIRTH_YEAR,
-    "alive" : True,
     "languages" : ["Portuguese", "English"],
-    "hobbies" : ["Games", "Movies", "Programming"],
+    "hobbies" : ["Games", "Read", "Movies", "Programming"],
 }
 ```
 
